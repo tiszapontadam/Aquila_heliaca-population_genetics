@@ -1,1 +1,7 @@
+R scripts for conducting Approximate Bayesian Computation (ABC) on genotypic data
 
+drawing_parameters - R script for generating .def files consisting of parameters defining historical scenarios for Fastsimcoal
+ml_admixture_coeff - R script for computing maximum likelihood admixture coefficients for .str files
+model_selection - R script for model selection with ABC package with multinomial logistic regression and neural network, and conducting cross-validation on scenarios
+posterior_par_dist - R script for estimating posterior parameter distributions for the most selected scenario
+postpred - R script for conducting posterior predictive check for the most selected scenario
