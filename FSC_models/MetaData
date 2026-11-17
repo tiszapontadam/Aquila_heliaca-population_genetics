@@ -1,1 +1,14 @@
+.tpl files of hypothetical scenarios for Fastsimcoal
 
+scen_1 - MAC diverged from CB, CB diverged from CENT
+scen_2 - MAC diverged from CB, CB diverged from THAN
+scen_3 - MAC diverged from THAN, CB diverged from CENT
+scen_4 - MAC diverged from THAN, CB diverged from THAN
+scen_5 - CB diverged from MAC, MAC diverged from CENT
+scen_6 - CB diverged from MAC, MAC diverged from THAN
+scen_7 - MAC diverged from both CB and THAN in an equal measure, CB diverged from CENT
+scen_8 - MAC diverged from both CB and THAN in an equal measure, CB diverged from THAN
+scen_9 - CB diverged from both MAC and CENT in an equal measure, MAC diverged from CENT
+scen_10 - CB diverged from both MAC and CENT in an equal measure; MAC diverged from THAN
+
+where MAC=North Macedonia, CB=Carpathian Basin, THAN=Thrace-Anatolia, CENT=unit of central and eastern populations
